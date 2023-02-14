@@ -1,4 +1,5 @@
 Readme file that contains description about the project
+![Example image of Docking site and substarte interaction](https://ccsb.scripps.edu/wp-content/uploads/2019/03/nihms350924f9.jpg)
 Overview of the project structure for a computational research project is given below :
 Main folder (Name of the folder: Docking study)
 Subfolders:

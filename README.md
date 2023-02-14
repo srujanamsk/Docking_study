@@ -1,6 +1,3 @@
-## Figure to display substarte receptor inetraction 
-![Example image of Docking site and substarte interaction](https://ccsb.scripps.edu/wp-content/uploads/2019/03/nihms350924f9.jpg)
-
 #  Project structure for a computational research project
 ## **Main folder (Name of the folder: Docking study)**
 
@@ -59,3 +56,5 @@ Overall, it is a text file to document the work done and it would represent the 
 I chose this particular project structure as I wanted keep the raw data separate from output/derived files and segregate the files that contained code (R script). 
 I felt this approach is of utmost importance, particularly when we deal with large sets of data and we might later get confused on aspects like - what data set generated which figure ?, which file contains raw data and which contains processed data etc. Overall, this weeks lecture on reproducibility.
 
+## Figure to display substarte receptor inetraction 
+![Example image of Docking site and substarte interaction](https://ccsb.scripps.edu/wp-content/uploads/2019/03/nihms350924f9.jpg)

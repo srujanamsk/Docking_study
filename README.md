@@ -1,4 +1,4 @@
-## Figure to display substarte receptor inetraction (docking study figure example)
+## Figure to display substarte receptor inetraction 
 ![Example image of Docking site and substarte interaction](https://ccsb.scripps.edu/wp-content/uploads/2019/03/nihms350924f9.jpg)
 
 #  Project structure for a computational research project
@@ -12,19 +12,19 @@ Subfolders:
 
 2.Output files
   
-  Figures
+  Figures :
     Fig_receptor,
     Fig_docking
     
-  Documents
+  Documents :
     Manuscript,
     Draft_article
     
-  Analysis files
+  Analysis files :
     Receptor_analysis,
     Docking_analysis
     
-  Scripts
+  Scripts :
      R_files,
      R_analysis code,	
      R_figures code

@@ -1,33 +1,37 @@
-Figure to display substarte receptor inetraction (docking study figure example)
+## Figure to display substarte receptor inetraction (docking study figure example)
 ![Example image of Docking site and substarte interaction](https://ccsb.scripps.edu/wp-content/uploads/2019/03/nihms350924f9.jpg)
 
-Overview of the project structure for a computational research project is given below :
-Main folder (Name of the folder: Docking study)
+#  Project structure for a computational research project
+## **Main folder (Name of the folder: Docking study)**
 
 Subfolders:
 
-1.Raw_data
-  -Metadata (word doc)
-  -Receptor_docking sites (.csv file)
+1.Raw_data :
+  Metadata (word doc),
+  Receptor_docking sites (.csv file)
 
 2.Output files
-   -Figures
-     -Fig_receptor
-     -Fig_docking
-   -Documents
-     -Manuscript
-     -Draft_article
-   -Analysis files
-     -Receptor_analysis
-     -Docking_analysis
-   -Scripts
-      -R_files
-      -R_analysis code	
-      -R_figures code
+  
+  Figures
+    Fig_receptor,
+    Fig_docking
+    
+  Documents
+    Manuscript,
+    Draft_article
+    
+  Analysis files
+    Receptor_analysis,
+    Docking_analysis
+    
+  Scripts
+     R_files,
+     R_analysis code,	
+     R_figures code
 
 3.README.txt
 
-README.md (current file)
+4.README.md (current file)
 
 I would be working on a receptor ligand interaction project. 
 This would be a docking study (i.e to study ligand receptor interaction), to understand at what particular site of the receptor would a ligand bind to. 

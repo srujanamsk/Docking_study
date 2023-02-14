@@ -1,5 +1,5 @@
 #  Project structure for a computational research project
-## **Main folder (Name of the folder: Docking study)**
+## **Main folder (Name of the folder: Docking_study)**
 
 Subfolders:
 
